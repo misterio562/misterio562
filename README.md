@@ -2,6 +2,10 @@
 
 Mi nombre es [Tu nombre], soy un programador apasionado por la tecnología y la innovación. En este README.md, quiero compartir contigo un poco acerca de los lenguajes de programación que más utilizo, las tecnologías que actualmente estoy aprendiendo y las que me gustaría aprender en un futuro cercano. 
 
+## Editor de texto favorito
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+## Sistema operativo
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ## Lenguajes de programación que utilizo
 
 Aquí te muestro algunos de los lenguajes de programación que más utilizo en mi día a día:
